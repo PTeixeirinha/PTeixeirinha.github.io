@@ -2271,3 +2271,21 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+
+
+
+#groupPhotos img{
+      margin-left: 5%;
+}
+
+.groupText{
+    margin-left: 7%;
+}
+.groupText b + b{
+  margin-left: 11%;
+}
+
+.doggoLogo img{
+  margin: 0 auto;
+}
